@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
         debugShowCheckedModeBanner: false,
-        title: 'BMI Calculator',
+        title: 'Macro Calculator',
         theme: ThemeData(
           useMaterial3: true,
           primarySwatch: Colors.indigo,
